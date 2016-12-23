@@ -1,2 +1,5 @@
 # hello-world
-this is for learning purposes
+
+Hi, Humans!
+
+I am trying to learn about github.
